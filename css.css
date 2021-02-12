@@ -1,0 +1,33 @@
+
+body{
+    background-color:black; 
+    color:white;
+    font-size:15px;
+    
+}
+table{
+    margin-top:50px;
+    text-align:center;
+}
+td{ 
+    border: 1px solid white;
+    line-height:30px;
+    text-align:center;
+}
+
+th{
+    border:1px solid white;
+    text-align:center;
+}
+
+
+input{ 
+   
+    background:black; 
+    color:white; 
+    width:200px;
+    height: 35px;
+    margin-right:5px;
+    font-size: 18px;
+}
+input:hover {background: red; color: white;}
